@@ -52,3 +52,9 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+Link to the document of the assignment above 
+https://docs.google.com/document/d/1D375w4pavnjfwfVVP1zGn5ecZXWobfOq3Dg5Fb9hYQg/edit?usp=sharing
+
+Link to the sample github repository
+https://github.com/graham005/sample-project.git
